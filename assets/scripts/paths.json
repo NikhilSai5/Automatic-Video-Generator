@@ -1,0 +1,19 @@
+{
+  "ppt_output_path": "../assets/ppts/GeneratedPresentation.pptx",
+  "audio_output_path": [
+    "../assets/audio\\Slide1.wav",
+    "../assets/audio\\Slide2.wav",
+    "../assets/audio\\Slide3.wav",
+    "../assets/audio\\Slide4.wav",
+    "../assets/audio\\Slide5.wav",
+    "../assets/audio\\Slide6.wav",
+    "../assets/audio\\Slide7.wav",
+    "../assets/audio\\Slide8.wav",
+    "../assets/audio\\Slide9.wav",
+    "../assets/audio\\Slide10.wav",
+    "../assets/audio\\Slide11.wav",
+    "../assets/audio\\Slide12.wav",
+    "../assets/audio\\Slide13.wav",
+    "../assets/audio\\Slide14.wav"
+  ]
+}
